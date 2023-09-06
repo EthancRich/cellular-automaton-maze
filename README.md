@@ -20,7 +20,7 @@ Upon running the program, the program will start in Cellular Automaton Mode, the
 ### Cellular Automaton Mode
 A 3D array of values will appear. These represent the different states of the representative cell as the maze is generated. Hold **space** to begin generating the maze.
 
-**Page Up** - *Maze Game Mode (When maze is completely built*
+**Page Up** - *Maze Game Mode (When maze is completely built)*
 
 ### Maze Game Mode
 The display will change to a skeleton mapping between each point in the maze. As the red dot, navigate the maze to the yellow dot opposite on the cube.
