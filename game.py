@@ -8,7 +8,7 @@ from bitarray.util import int2ba
 PROJECTION_MATRIX = np.array([[1,0,0],[0,1,0],[0,0,0]])
 WINDOW_WIDTH = 1400
 WINDOW_HEIGHT = 800
-DIMENSION = 5
+DIMENSION = 5             ## DIMENSION DEFINED HERE : 5-10 recommended for gameplay. Anything higher is entertaining to build but not to play ##
 IS_EVEN = DIMENSION % 2 == 0
 CELL_SIZE = 50
 
