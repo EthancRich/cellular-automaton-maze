@@ -1,5 +1,9 @@
 # Maze Generator via Cellular Automaton + Maze Game
 
+5x5x5             |  10x10x10
+:-------------------------:|:-------------------------:
+![](Video1.1.gif)  |  ![](Video1.2.gif)
+
 ## Description
 This program is an *interactive maze game*, where each maze is randomly generated each run from a cellular automaton. It's built entirely in Python using pygame. This project is my first major attempt at writing Python code, and I learned a lot about the interesting, wild, and sometimes frustrating world of pythonisms. I really appreciate the value of worrying less about debugging code and mocking up a product that will run properly. It was a breath of fresh air sometimes, writing sections and the result working as intended.
 
